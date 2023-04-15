@@ -7,4 +7,4 @@ Given a PDF, let GPT3.5 summarize it for you.
 - PyPDF2 package
 
 
-Just a little test with their API.
+Just a little test with their API. Includes bitcoin whitepaper in data folder.
